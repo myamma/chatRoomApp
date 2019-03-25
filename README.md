@@ -1,4 +1,4 @@
-# Socket.io learning project [not original] <br/>
+# Socket.io learning project <br/>
 # I followed below tutorial from medium [written by Vincent Muhler] <br/>
 
 <a href="https://medium.com/@muehler.v/building-a-node-js-websocket-chat-app-with-socket-io-and-react-473a0686d1e1"><b>
